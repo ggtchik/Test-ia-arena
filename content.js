@@ -6,7 +6,7 @@
 
 window.SITE_CONTENT = {
   meta: {
-    title: "STUDIO KRONOS — Expériences Web Immersives & Direction Artistique",
+    title: "STUDIO Gégé-Bubu — Expériences Web Immersives & Direction Artistique",
     description: "Nous créons des sites vitrines animés ultra-performants qui captivent vos visiteurs en 3 secondes et maximisent votre taux de conversion.",
     theme: "dark",
     accentColor: "#e3f794",
