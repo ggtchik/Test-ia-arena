@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" rx="16" fill="#121520" stroke="#252d42" stroke-width="1"/>
+  <!-- Terminal / Launch UI -->
+  <rect x="50" y="50" width="300" height="200" rx="12" fill="#0d1017" stroke="#232c42" stroke-width="1.5"/>
+  <circle cx="75" cy="72" r="5" fill="#ff5f56"/>
+  <circle cx="92" cy="72" r="5" fill="#ffbd2e"/>
+  <circle cx="109" cy="72" r="5" fill="#27c93f"/>
+  <text x="75" y="120" fill="#e3f794" font-family="monospace" font-size="14">&gt; build --production</text>
+  <text x="75" y="150" fill="#8c97b8" font-family="monospace" font-size="12">✓ Zero layout shift</text>
+  <text x="75" y="175" fill="#8c97b8" font-family="monospace" font-size="12">✓ 60 FPS verified</text>
+  <text x="75" y="205" fill="#27c93f" font-family="monospace" font-size="14" font-weight="bold">DEPLOYED TO PRODUCTION (100% READY)</text>
+</svg>

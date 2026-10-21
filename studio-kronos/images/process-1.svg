@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" rx="16" fill="#121520" stroke="#252d42" stroke-width="1"/>
+  <!-- Blueprint grid -->
+  <path d="M40 50 L360 50 M40 100 L360 100 M40 150 L360 150 M40 200 L360 200 M40 250 L360 250" stroke="#1c2336" stroke-width="1"/>
+  <path d="M80 30 L80 270 M160 30 L160 270 M240 30 L240 270 M320 30 L320 270" stroke="#1c2336" stroke-width="1"/>
+  <rect x="90" y="70" width="220" height="150" rx="12" fill="#182030" stroke="#e3f794" stroke-width="2"/>
+  <circle cx="200" cy="145" r="35" fill="none" stroke="#e3f794" stroke-width="2" stroke-dasharray="6 4"/>
+  <line x1="160" y1="145" x2="240" y2="145" stroke="#ffffff" stroke-width="2"/>
+  <line x1="200" y1="105" x2="200" y2="185" stroke="#ffffff" stroke-width="2"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="b1Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#181e2d"/>
+      <stop offset="100%" stop-color="#0f121d"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" rx="20" fill="url(#b1Grad)" stroke="#263047" stroke-width="1.5"/>
+  <rect x="30" y="30" width="90" height="26" rx="13" fill="#e3f794"/>
+  <text x="75" y="47" fill="#0d0f12" font-family="system-ui, sans-serif" font-size="11" font-weight="800" text-anchor="middle">CASE STUDY</text>
+  <text x="30" y="95" fill="#ffffff" font-family="system-ui, sans-serif" font-size="28" font-weight="900">Haute Horlogerie & Luxe</text>
+  <text x="30" y="125" fill="#8c97b8" font-family="system-ui, sans-serif" font-size="15">+210% de demandes qualifiées en 60 jours</text>
+  
+  <!-- Interactive visual UI mockup inside -->
+  <g transform="translate(30, 150)">
+    <rect width="540" height="210" rx="14" fill="#121622" stroke="#232a3e" stroke-width="1"/>
+    <!-- Radial aura -->
+    <circle cx="270" cy="105" r="80" fill="#e3f794" fill-opacity="0.08"/>
+    <!-- Watch dial abstract -->
+    <circle cx="270" cy="105" r="60" fill="#1a2030" stroke="#e3f794" stroke-width="2"/>
+    <line x1="270" y1="105" x2="270" y2="65" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+    <line x1="270" y1="105" x2="300" y2="115" stroke="#e3f794" stroke-width="3" stroke-linecap="round"/>
+    <!-- Tag -->
+    <rect x="370" y="30" width="140" height="40" rx="20" fill="#1f273b"/>
+    <text x="440" y="55" fill="#e3f794" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5.2x ROI</text>
+  </g>
+</svg>

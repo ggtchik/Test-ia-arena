@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="p2G" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e3f794"/>
+      <stop offset="100%" stop-color="#4fd1c5"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="#121520" stroke="#252d42" stroke-width="1"/>
+  <!-- 3D polygon mesh wireframe -->
+  <polygon points="200,40 330,110 330,220 200,280 70,220 70,110" fill="none" stroke="#2a354f" stroke-width="2"/>
+  <line x1="200" y1="40" x2="200" y2="280" stroke="#2a354f" stroke-width="2"/>
+  <line x1="330" y1="110" x2="70" y2="220" stroke="#2a354f" stroke-width="2"/>
+  <line x1="70" y1="110" x2="330" y2="220" stroke="#2a354f" stroke-width="2"/>
+  <polygon points="200,80 280,125 280,195 200,240 120,195 120,125" fill="url(#p2G)" fill-opacity="0.15" stroke="url(#p2G)" stroke-width="2"/>
+  <circle cx="200" cy="160" r="14" fill="#e3f794"/>
+</svg>
