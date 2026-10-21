@@ -12,14 +12,14 @@ window.SITE_CONTENT = {
     accentColor: "#e3f794",
     accentInk: "#0c0e14",
     brandName: "KRONOS",
-    studioFullName: "STUDIO KRONOS",
+    studioFullName: "STUDIO Gégé-Bubu",
     badgeLabel: "STUDIO DIGITAL & DIRECTION ARTISTIQUE",
-    contactEmail: "contact@studio-kronos.fr", // À REMPLACER par votre e-mail réel
+    contactEmail: "ggtchik@gmail.com", // À REMPLACER par votre e-mail réel
     location: "Paris / Bordeaux — France"
   },
 
   navigation: {
-    brandName: "KRONOS",
+    brandName: "Gégé-Bubu",
     links: [
       { label: "Vision", href: "#manifesto" },
       { label: "Réalisations", href: "#proof" },
@@ -33,8 +33,8 @@ window.SITE_CONTENT = {
   },
 
   loader: {
-    brandName: "KRONOS",
-    subtext: "EXPERIENCE DESIGN STUDIO",
+    brandName: "Gégé-Bubu",
+    subtext: "EXPERIENCE Expert en jardinage",
     loadingText: "CHARGEMENT DU MOTEUR IMMERSIF"
   },
 
@@ -147,7 +147,7 @@ window.SITE_CONTENT = {
 
   motto: {
     quote: "L'IMPACT N'EST PAS UN HASARD. C'EST UNE SCIENCE DU DÉTAIL.",
-    author: "KRONOS PHILOSOPHY — 2026",
+    author: "Gégé-Bubu — 2026",
     subtext: "Quand l'art rencontre l'ingénierie de conversion, votre marque devient inoubliable."
   },
 
@@ -236,13 +236,13 @@ window.SITE_CONTENT = {
     subheadline: "Réservez un échange de 20 minutes pour analyser votre projet et concevoir une vitrine qui surclasse vos concurrents.",
     ctaPrimary: {
       label: "Réserver mon audit immersif offert →",
-      href: "mailto:contact@studio-kronos.fr?subject=Projet%20Site%20Immersif%20Studio%20Kronos"
+      href: "mailto:ggtchik@gmail.com subject=Projet%20Site%20Immersif%20Studio%20Gégé-Bubu"
     },
     ctaSecondary: {
-      label: "contact@studio-kronos.fr",
-      href: "mailto:contact@studio-kronos.fr"
+      label: "ggtchik@gmail.com",
+      href: "mailto:ggtchik@gmail.com"
     },
-    giantBrandText: "KRONOS",
+    giantBrandText: "Gégé-Bubu",
     availabilityBadge: "Disponibilité actuelle : 2 créneaux d'accompagnement ce mois-ci",
     links: [
       { label: "Vision", href: "#manifesto" },
@@ -251,6 +251,6 @@ window.SITE_CONTENT = {
       { label: "Garanties", href: "#objections" }
     ],
     socialLinks: [], // N'affiche aucun réseau inventé
-    copyright: "© 2026 STUDIO KRONOS. Tous droits réservés. Conçu sans framework lourd avec le moteur Immersif Pure-JS."
+    copyright: "© 2026 STUDIO Gégé-Bubu. Tous droits réservés. Conçu sans framework lourd avec le moteur Immersif Pure-JS."
   }
 };
