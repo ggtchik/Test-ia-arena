@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="150" height="150">
+  <defs>
+    <linearGradient id="torusGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e3f794"/>
+      <stop offset="50%" stop-color="#6df0c2"/>
+      <stop offset="100%" stop-color="#2a385b"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="75" cy="75" rx="58" ry="32" fill="none" stroke="url(#torusGrad)" stroke-width="10" transform="rotate(-30 75 75)"/>
+  <ellipse cx="75" cy="75" rx="32" ry="58" fill="none" stroke="#e3f794" stroke-width="2" stroke-opacity="0.6" transform="rotate(-30 75 75)"/>
+</svg>

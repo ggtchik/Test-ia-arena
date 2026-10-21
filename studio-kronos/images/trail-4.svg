@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" width="240" height="150">
+  <rect width="240" height="150" rx="14" fill="#182030" stroke="#e3f794" stroke-width="2"/>
+  <text x="24" y="38" fill="#e3f794" font-family="system-ui, sans-serif" font-size="11" font-weight="800">LIBERTÉ COMPLÈTE</text>
+  <text x="24" y="70" fill="#ffffff" font-family="system-ui, sans-serif" font-size="20" font-weight="900">Propriété Intégrale</text>
+  <rect x="24" y="90" width="192" height="36" rx="8" fill="#101522"/>
+  <text x="36" y="113" fill="#8c97b8" font-family="system-ui, sans-serif" font-size="12">Aucun abonnement captif</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 80" width="180" height="80">
+  <rect width="180" height="80" rx="40" fill="#141824" stroke="#e3f794" stroke-width="1.5"/>
+  <circle cx="40" cy="40" r="22" fill="#e3f794"/>
+  <path d="M40 26 L43 35 L52 35 L45 41 L47 50 L40 44 L33 50 L35 41 L28 35 L37 35 Z" fill="#0d0f12"/>
+  <text x="72" y="36" fill="#ffffff" font-family="system-ui, sans-serif" font-size="12" font-weight="700">AWWWARDS</text>
+  <text x="72" y="52" fill="#8c97b8" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Site of the Day</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <radialGradient id="nebula1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e3f794" stop-opacity="0.18"/>
+      <stop offset="40%" stop-color="#4a6382" stop-opacity="0.12"/>
+      <stop offset="80%" stop-color="#14182b" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#090a0f" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebula2" cx="30%" cy="40%" r="40%">
+      <stop offset="0%" stop-color="#80e8a2" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#090a0f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="transparent"/>
+  <circle cx="600" cy="400" r="450" fill="url(#nebula1)"/>
+  <circle cx="400" cy="350" r="300" fill="url(#nebula2)"/>
+  <circle cx="800" cy="480" r="280" fill="url(#nebula2)" opacity="0.7"/>
+  <!-- Stars / Dust particles -->
+  <circle cx="200" cy="180" r="2" fill="#ffffff" opacity="0.6"/>
+  <circle cx="340" cy="520" r="1.5" fill="#e3f794" opacity="0.8"/>
+  <circle cx="950" cy="220" r="2.5" fill="#ffffff" opacity="0.7"/>
+  <circle cx="820" cy="620" r="2" fill="#80e8a2" opacity="0.8"/>
+  <circle cx="600" cy="280" r="3" fill="#e3f794" opacity="0.9"/>
+  <circle cx="150" cy="680" r="1.5" fill="#ffffff" opacity="0.5"/>
+  <circle cx="1080" cy="550" r="2" fill="#e3f794" opacity="0.7"/>
+</svg>
